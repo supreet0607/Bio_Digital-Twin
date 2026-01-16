@@ -1,0 +1,4 @@
+Flask_ID,flask_name,Initial_OD600,Initial_pH,Blackmass,Acclimatization_pH
+1,LB+BS+BM,0.327,5.1,1,9.5
+2,LB+BS,0.662,6,1,9
+3,LB+BM,0.532,5.3,1,7
